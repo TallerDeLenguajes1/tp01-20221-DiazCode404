@@ -28,16 +28,16 @@ namespace tp01_taller2.Controllers
             return View();
         }
 
-        public int problema01(int a)
+        public string problema01(string a)
         {
             try
             {
-                return a * a;
+                return Math.Pow(Convert.ToInt32(a),2).ToString();
             }
-            catch (Exception)
+            catch (Exception error)
             {
 
-                return -1;
+                return error.Message;
             }
             
         }
