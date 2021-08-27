@@ -30,7 +30,16 @@ namespace tp01_taller2.Controllers
 
         public int problema01(int a)
         {
-            return a * a;
+            try
+            {
+                return a * a;
+            }
+            catch (Exception)
+            {
+
+                return -1;
+            }
+            
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
