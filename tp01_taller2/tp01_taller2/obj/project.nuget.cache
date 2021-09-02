@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ABSmEk31rZslAyI2AkMJfKanRHdE43ma9PI9txP7HRA/30JrioeDsZf21dAfkCAPt77mhi+ImBZrEx64Ol4OnA==",
+  "dgSpecHash": "80zEid4u8Cs+C9gebGKBHB0u/lSSsdd9H9IQkscZo5Yy3lmogdIVBNn1SrR0+wbokyJW1qC4wQsDHYi2NmotIA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\practicaC#\\tp01-20221-DiazCode404\\tp01_taller2\\tp01_taller2\\tp01_taller2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\nlog\\4.7.11\\nlog.4.7.11.nupkg.sha512"
+  ],
   "logs": []
 }

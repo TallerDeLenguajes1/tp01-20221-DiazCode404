@@ -39,3 +39,5 @@ C:\Users\Usuario\OneDrive\Escritorio\practicaC#\tp01-20221-DiazCode404\tp01_tall
 C:\Users\Usuario\OneDrive\Escritorio\practicaC#\tp01-20221-DiazCode404\tp01_taller2\tp01_taller2\obj\Debug\net5.0\tp01_taller2.genruntimeconfig.cache
 C:\Users\Usuario\OneDrive\Escritorio\practicaC#\tp01-20221-DiazCode404\tp01_taller2\tp01_taller2\obj\Debug\net5.0\tp01_taller2.csproj.CopyComplete
 C:\Users\Usuario\OneDrive\Escritorio\practicaC#\tp01-20221-DiazCode404\tp01_taller2\tp01_taller2\obj\Debug\net5.0\Razor\Views\Home\problema01.cshtml.g.cs
+C:\Users\Usuario\OneDrive\Escritorio\practicaC#\tp01-20221-DiazCode404\tp01_taller2\tp01_taller2\bin\Debug\net5.0\NLog.config
+C:\Users\Usuario\OneDrive\Escritorio\practicaC#\tp01-20221-DiazCode404\tp01_taller2\tp01_taller2\bin\Debug\net5.0\NLog.dll
